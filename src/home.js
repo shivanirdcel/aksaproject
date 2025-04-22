@@ -127,7 +127,7 @@ function Home() {
         </div>
       </div>
       <div>
-        <img src="/image/awards-bg.png" alt="Awards Background" />
+        <img src="/image/awards-bg.png" alt="Awards Background" style={{ width: `100%` }}/>
       </div>
     </section>
     <section>
